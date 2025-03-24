@@ -1,4 +1,4 @@
-# 🏛️ Cidades Históricas Brasileiras - Imersão DEV Google Gemini
+# 🏛️ Cidades Históricas Brasileiras 
 
 Bem-vindo ao **Cidades Históricas Brasileiras!** 🌆 Esse projeto é uma verdadeira viagem no tempo pelas cidades mais charmosas e cheias de história do nosso Brasil. Aqui, você pode explorar detalhes incríveis sobre cidades como Ouro Preto, Paraty, Salvador, e muitas outras joias históricas.
 
